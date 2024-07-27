@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "The Theory of Relativity",
+        "title": "This is in the syllabus of B.Tech 1st Sem",
+        "price": 0,
+        "author": "Einstein",
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722063777~exp=1722067377~hmac=f2b647702adc8e78ee447a198b991c0114c13948f9f489b4892d78f88f5fde34&w=740"
+    },
+    {
+        "id": 2,
+        "name": "The Nitra",
+        "price": 0,
+        "title": "This is in the syllabus of B.Tech 1st Sem",
+        "author": "Einstein",
+        "category": "dance",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722063777~exp=1722067377~hmac=f2b647702adc8e78ee447a198b991c0114c13948f9f489b4892d78f88f5fde34&w=740"
+    },
+    {
+        "id": 3,
+        "name": "The Raag",
+        "price": 0,
+        "title": "This is in the syllabus of B.Tech 1st Sem",
+        "author": "Einstein",
+        "category": "music",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722063777~exp=1722067377~hmac=f2b647702adc8e78ee447a198b991c0114c13948f9f489b4892d78f88f5fde34&w=740"
+    },
+    {
+        "id": 4,
+        "name": "The Theory of Relativity 2",
+        "title": "This is in the syllabus of B.Tech 1st Sem",
+        "price": 100,
+        "author": "Einstein",
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722063777~exp=1722067377~hmac=f2b647702adc8e78ee447a198b991c0114c13948f9f489b4892d78f88f5fde34&w=740"
+    },
+    {
+        "id": 5,
+        "name": "The Theory of Relativity",
+        "title": "This is in the syllabus of B.Tech 1st Sem",
+        "price": 0,
+        "author": "Einstein",
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722063777~exp=1722067377~hmac=f2b647702adc8e78ee447a198b991c0114c13948f9f489b4892d78f88f5fde34&w=740"
+    },
+    {
+        "id": 6,
+        "name": "The Theory of Relativity",
+        "title": "This is in the syllabus of B.Tech 1st Sem",
+        "price": 0,
+        "author": "Einstein",
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722063777~exp=1722067377~hmac=f2b647702adc8e78ee447a198b991c0114c13948f9f489b4892d78f88f5fde34&w=740"
+    },
+    {
+        "id": 7,
+        "name": "The Theory of Relativity",
+        "title": "This is in the syllabus of B.Tech 1st Sem",
+        "price": 0,
+        "author": "Einstein",
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722063777~exp=1722067377~hmac=f2b647702adc8e78ee447a198b991c0114c13948f9f489b4892d78f88f5fde34&w=740"
+    },
+    {
+        "id": 8,
+        "name": "The Theory of Relativity",
+        "title": "This is in the syllabus of B.Tech 1st Sem",
+        "price": 0,
+        "author": "Einstein",
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722063777~exp=1722067377~hmac=f2b647702adc8e78ee447a198b991c0114c13948f9f489b4892d78f88f5fde34&w=740"
+    }
+]
